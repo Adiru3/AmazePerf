@@ -1,0 +1,5 @@
+C:\Users\adiru\Desktop\AmazePerf\obj\x86\Release\AmazePerf.csprojResolveAssemblyReference.cache
+C:\Users\adiru\Desktop\AmazePerf\bin\Release\AmazePerf.exe
+C:\Users\adiru\Desktop\AmazePerf\bin\Release\AmazePerf.pdb
+C:\Users\adiru\Desktop\AmazePerf\obj\x86\Release\AmazePerf.exe
+C:\Users\adiru\Desktop\AmazePerf\obj\x86\Release\AmazePerf.pdb
