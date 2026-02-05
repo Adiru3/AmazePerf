@@ -125,23 +125,6 @@ PhysicalDisk\Current Disk Queue Length\_Total
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Performance Dashboard
-![Dashboard](https://via.placeholder.com/600x350/0f0f19/00c8ff?text=Real-Time+Charts)
-
-### Issue Detection & Solutions
-![Issues](https://via.placeholder.com/600x350/0f0f19/ff6464?text=Detected+Issues)
-
-### Process Monitoring
-![Processes](https://via.placeholder.com/600x350/0f0f19/00ff64?text=Process+Monitor)
-
-</div>
-
----
-
 ## 🎯 Use Cases
 
 - ✅ **Gaming Performance** - Identify what's causing FPS drops and stuttering
@@ -210,12 +193,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📊 GitHub Topics
-
-`performance-monitor` `system-monitor` `windows` `csharp` `dotnet` `performance-analysis` `cpu-monitor` `memory-monitor` `disk-monitor` `freeze-detector` `lag-detector` `performance-optimization` `system-diagnostics` `real-time-monitoring` `winforms` `windows-performance` `system-tools` `performance-counter` `resource-monitor` `pc-optimization`
-
----
-
 <div align="center">
 
 ### ⭐ Star this repository if you find it useful!
@@ -225,4 +202,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⬆ Back to Top](#-amazeperf)
 
 </div>
+
 
