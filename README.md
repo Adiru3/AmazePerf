@@ -13,7 +13,7 @@
 
 [Download](https://github.com/Adiru3/AmazePerf/releases) • [Documentation](#-features) • [Report Bug](https://github.com/Adiru3/AmazePerf/issues) • [Support Development](https://adiru3.github.io/Donate/)
 
-![AmazePerf Screenshot](<img width="1186" height="695" alt="image" src="https://github.com/user-attachments/assets/f25ac45f-9efe-4314-b026-6d7d72c31fe3" />)
+![AmazePerf Screenshot](https://github.com/user-attachments/assets/f25ac45f-9efe-4314-b026-6d7d72c31fe3)
 
 </div>
 
@@ -202,6 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⬆ Back to Top](#-amazeperf)
 
 </div>
+
 
 
 
